@@ -2,5 +2,5 @@
 
 Este reposiório serve para acompanhamento e desenvolvimento do aplicativo em Swift Listas de Tarefas.
 
-![Swift] (/Users/brunocassiano/MAC/OneDrive/Documents/PERSONAL/CURSOS/SWIFT/Tarefas_List/swift-20-1174992.png)
+![Swift] (https://miro.medium.com/max/700/1*eaeetv5KS3uZu4B9E892Ig.png)
 
